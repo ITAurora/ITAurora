@@ -1,6 +1,6 @@
 ### Hello Win 👋
 
-<code><img height="60" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png](https://github.githubassets.com/assets/octocats-656a28e14a2f.webp)" alt="javascript" /></code>
+<code><img height="60" src="https://github.githubassets.com/assets/octocats-656a28e14a2f.webp" alt="javascript" /></code>
 
 #### Languages
 
