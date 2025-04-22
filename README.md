@@ -58,7 +58,7 @@
 
 <!-- interested:end -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ITAurora "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ITAurora&show_icons=true&theme=radical "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
 
 
 
